@@ -1,3 +1,7 @@
+def add(a, b):
+    return a+b
+
+
 def main_func(a, b, op):
     if op == '+':
         add(a,b)
